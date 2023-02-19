@@ -17,7 +17,10 @@ This repository contains the work I have done for my Master's thesis in Geoinfor
 
 ## Thesis
 
-- `Teza_Master_VZagaevschi.pdf`: This is the final version of my Master's thesis presentation, which focuses on the use of geospatial data in the field of management of water cadastre data. The aim of this thesis is to develop methodological principles for the creation and implementation of an Automated Information System called the "State Water Cadastre" in the Republic of Moldova.
+- `Teza_Master_VZagaevschi.pdf`: This is the final version of my Master's thesis presentation, which focuses on the use of geospatial data in the field of management of water cadastre data. 
+
+The aim of this thesis is to develop methodological principles for the creation and implementation of an Automated Information System called the "State Water Cadastre" in the Republic of Moldova.
+
 Objectives included planning and design documentation for the information system, design a database for water resource management, design a GIS for automating the management of data on water resources, develop and implement a GIS for automating the management of data on water resources.
 
 ## Getting Started
